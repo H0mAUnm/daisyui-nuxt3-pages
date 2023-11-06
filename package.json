@@ -8,7 +8,6 @@
     "build": "nuxt build"
   },
   "dependencies": {
-    "@nuxt/ui": "^0.4.1",
     "@nuxtjs/tailwindcss": "^6",
     "daisyui": "^3",
     "nuxt": "^3.6.5",
